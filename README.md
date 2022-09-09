@@ -16,12 +16,18 @@ This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsʰinˈkiʌt tɑn/), currently a web f
 <tbody>
 <tr><td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikoTan&layout=compact&langs_count=10&theme=dracula)
+![Maiko Tan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikoTan&layout=compact&langs_count=10&theme=dracula)
 
 </td>
 <td>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoTan&theme=dracula)
+![Maiko Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoTan&theme=dracula)
+
+</td></tr>
+
+<tr><td>
+
+![MaikoTan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikoTan)
 
 </td></tr>
 </tbody>
