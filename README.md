@@ -16,7 +16,7 @@ This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsʰinˈkiʌt tɑn/), currently a web f
 <tbody>
 <tr><td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikoTan&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikoTan&layout=compact&langs_count=10&theme=dracula)
 
 </td>
 <td>
