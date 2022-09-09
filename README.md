@@ -1,4 +1,4 @@
-### Hi there
+### Hi there :clap:
 
 This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsʰinˈkiʌt tɑn/), currently a web front-end developer.
 
@@ -8,3 +8,21 @@ This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsʰinˈkiʌt tɑn/), currently a web f
 - 🌏I speak Chinese, Japanese, English and a little French.
 - 😊I like watching anime and reading manga (manhwa), also playing video games like Final Fantasy XIV.
 - 🏡I live in China currently.
+
+
+### My GitHub Stats
+
+<table>
+<tbody>
+<tr><td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikoTan&theme=dracula)
+
+</td>
+<td>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoTan&theme=dracula)
+
+</td></tr>
+</tbody>
+</table>
