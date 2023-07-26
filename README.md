@@ -1,6 +1,6 @@
 ### Hi there :clap:
 
-This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsʰinˈkiʌt tɑn/), currently a web front-end developer.
+This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsinˈkiʌt tɑn/), currently a web front-end developer.
 
 [![wakatime](https://wakatime.com/badge/user/f237be06-5587-4b4a-804b-71c871e63b6b.svg)](https://wakatime.com/@f237be06-5587-4b4a-804b-71c871e63b6b)
 
