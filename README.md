@@ -12,17 +12,6 @@ This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsinˈkiʌt tɑn/), currently a web fro
 
 ### My GitHub Stats
 
-<table>
-<tbody>
-<tr><td>
-
-![MaikoTan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikoTan&langs_count=10&layout=compact&theme=dark)
-
-</td>
-<td>
-
 ![Maiko Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoTan&show_icons=true&count_private=true&theme=dark)
 
-</td></tr>
-</tbody>
-</table>
+![MaikoTan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikoTan&langs_count=10&layout=compact&theme=dark)
