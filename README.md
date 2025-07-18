@@ -1,6 +1,6 @@
 ### Hi there :clap:
 
-This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsinˈkiʌt tɑn/), self-classified as a `Web Frontend Developer`.
+This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsinˈkiat tɑn/), self-classified as a `Web Frontend Developer`.
 
 You can call me `Maiko` or my family name `Tan` (Note: `T` should be pronounced as a [nonaspirated `/t/`](https://en.wikipedia.org/wiki/Aspirated_consonant))
 
