@@ -14,6 +14,6 @@ You can call me `Maiko` or my family name `Tan` (Note: `T` should be pronounced 
 
 ### My GitHub Stats
 
-![Maiko Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikoTan&show_icons=true&count_private=true&theme=dark)
+![Maiko Tan's GitHub stats](https://github-stats-extended.vercel.app/api?username=MaikoTan&show_icons=true&count_private=true&theme=dark)
 
-![MaikoTan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaikoTan&langs_count=10&layout=compact&theme=dark)
+![MaikoTan's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=MaikoTan&langs_count=10&layout=compact&theme=dark)
