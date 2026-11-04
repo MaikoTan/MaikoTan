@@ -1,8 +1,8 @@
 <div align="center">
 
-### Ciallo～(∠・ω< )⌒★)
-
 <img align="center" src="https://github.com/MaikoTan.png" width="96" height="96" alt="Maiko Tan" />
+
+### Ciallo～(∠・ω< )⌒★)
 
 This is Maiko Sinkyaet Tan (/ˈmaikʰɔ ˌsinˈkiat tɑn/), self-classified as a `Web Frontend Developer`.
 
