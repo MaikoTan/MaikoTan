@@ -41,13 +41,15 @@ jobs:
           path: stats/wakatime-stats.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
+      # Use GITHUB_TOKEN here: the pin card only needs a public repo, and a
+      # restricted fine-grained PAT can fail to resolve other orgs.
       - name: Generate koishi pin card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=koishijs&repo=koishi&theme=dark
           path: stats/pin-koishi.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit stats
         run: |
