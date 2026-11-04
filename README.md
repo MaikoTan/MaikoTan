@@ -16,4 +16,8 @@ You can call me `Maiko` or my family name `Tan` (Note: `T` should be pronounced 
 
 ![Maiko Tan's GitHub stats](./stats/github-stats.svg)
 
+![Top languages](./stats/top-langs.svg)
+
 ![MaikoTan's wakatime stats](./stats/wakatime-stats.svg)
+
+[![koishijs/koishi](./stats/pin-koishi.svg)](https://github.com/koishijs/koishi)
